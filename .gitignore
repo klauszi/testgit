@@ -1,0 +1,4 @@
+#ignoriert alle dateien mit .shit am ende
+*.shit
+#außer haha.shit
+!haha.shit
